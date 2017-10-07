@@ -27,6 +27,7 @@ namespace ClassPractice
             Console.Clear(); Console.Beep();
             TimeSpan.FromSeconds(14);
             
+            //Performing s countDown
             Console.WriteLine("SHUTTING DOWN!!!!!");
             Wait(1);
             Console.WriteLine("3...");
